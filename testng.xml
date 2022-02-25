@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/home/knoldus/IdeaProjects/Login">
         <classes>
-            <class name="assignment.MainFunction">
+            <class name="assignment.practise">
                 <methods>
                     <include name="i_am_in_the_login_page_of_Demosite"/>
                     <include name="i_am_in_the_login_page_of_DemoSite_for_firefox"/>

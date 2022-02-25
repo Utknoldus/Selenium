@@ -1,10 +1,12 @@
 package assignment;
+
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 import java.io.File;
 import java.io.FileInputStream;
-public class ExcelConf {
 
+public class ExcelConf {
     //Making Global Variable for our workbook//
     XSSFWorkbook wb;
     XSSFSheet sheet1;
